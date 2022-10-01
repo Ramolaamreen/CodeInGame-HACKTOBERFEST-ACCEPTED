@@ -13,5 +13,6 @@ if(a==1){
     System.out.print("God is able to help you , You can do it!!");
 
   }
+  System.out.println("There is an error!please try again");
 }
 }
