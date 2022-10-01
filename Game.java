@@ -10,6 +10,7 @@ if(a==1){
 }
   else{
     System.out.prinln("try again");
+    System.out.print("God is able to help you , You can do it!!");
 
   }
 }
