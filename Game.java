@@ -14,5 +14,6 @@ if(a==1){
 
   }
   System.out.println("There is an error!please try again");
+  System.out.print("Restarting....");
 }
 }
