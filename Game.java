@@ -16,5 +16,6 @@ if(a==1){
   System.out.println("There is an error!please try again");
   System.out.print("Restarting....");
   System.out.println("Started again!!->volaa go and playy");
+  System.out.print("If not,please try again");
 }
 }
