@@ -29,6 +29,7 @@ if(a==1){
   //we will be ready here and beging authorised here
 // updated the logic for auth and authorisation
   // started the game
+  System.out.print("Started! All the best");
 
   
 
