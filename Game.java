@@ -23,7 +23,7 @@ if(a==1){
     //here we will be authorizing and authenteticating
   }
   for(int i=0;i<5;i++)
-    System.out.println("Countdown"+i); //countdown started
+    System.out.println("Countdown"+i); //countdown begin
 
 
   
