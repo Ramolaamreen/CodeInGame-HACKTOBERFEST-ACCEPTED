@@ -26,6 +26,7 @@ if(a==1){
     System.out.println("Countdown"+i); //countdown begins
   System.out.print("Get ready");
   System.out.print("Get set go...");
+  //we will be ready here
 
 
   
