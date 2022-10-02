@@ -24,6 +24,9 @@ if(a==1){
   }
 //here we will beging the game
     System.out.print("Ready");
+  for(int i=0;i<5;i++){
+    System.out.print(i);
+  }
 
   
 
