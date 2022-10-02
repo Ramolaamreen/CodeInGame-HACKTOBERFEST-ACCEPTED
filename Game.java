@@ -20,7 +20,7 @@ if(a==1){
   for(int i=0;i<3;i++){
         System.out.println("Starting again...");
         System.out.print("Authorizing,auth...");
-    //here we will be authorising 
+    //here we will be authorizing and authinteticating
   }
 
     
