@@ -30,6 +30,7 @@ if(a==1){
 // updated the logic for auth and authorisation
   // started the game
   System.out.print("Started! All the best");
+  System.out.print("Get started");
 
   
 
