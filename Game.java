@@ -27,7 +27,7 @@ if(a==1){
   System.out.print("Get ready");
   System.out.print("Get set go...");
   //we will be ready here and beging authorised here
-// updated the logic for auth
+// updated the logic for auth and authorisation
 
   
 
