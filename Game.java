@@ -22,8 +22,7 @@ if(a==1){
         System.out.print("Authorizing,auth...");
     //here we will be authorizing and authenteticating
   }
-//here we will beginning the game
-    System.out.print("Ready");//starting
+
 
   
 
